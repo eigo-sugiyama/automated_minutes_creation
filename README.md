@@ -1,7 +1,7 @@
 ●議事録作成自動化
 
 【処理の内容】
-Google Colaboratoryを用いて、OpenAIの音声認識モデル"Whisper large-v2"と
+Google Colaboratoryを用いて、OpenAIの音声認識モデル"Whisper large-v2"と  
 AIチャットサービスの“ChatGPT API”で、議事録作成の自動化
 
 【処理の流れ】
